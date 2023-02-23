@@ -1,0 +1,59 @@
+
+
+# Displaying grid function
+def dispGrid():
+
+# place object on grid
+def place(item):
+
+# add objects from list
+def addObjects(items):
+
+# calculate disctance
+def distance(robot,item):
+return buffer
+
+# order buffer list
+def sortObjects():
+
+# route path - x first
+def routeX(robot,item,num):
+return routeBuf
+
+# route path - y first
+def routeY(robot,item,num):
+return routeBuf
+
+# move on route
+def moveRoute(robot, movement):
+return robot
+
+
+
+
+
+
+
+
+robots = [[9,9,'R', 1],
+          [2,2,'C', 2]]
+
+bads = [[3,4,'B'],
+        [5,8,'B']]
+
+goods = [[5,3,'G'],
+         [9,7,'G']]
+
+objects_Bad = []
+objects_Good = []
+objectsBuf_1 = []
+createRoute_1 = []
+objectsBuf_2 = []
+createRoute_2 = []
+
+objectsBuf = [[],
+              []]
+
+createRoute = [[],[]]
+
+
